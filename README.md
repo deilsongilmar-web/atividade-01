@@ -11,24 +11,24 @@ Objetivo é [** Conseguir trabalhar da área de tecnologia , (programador)**].
 
 ## ✨ Funcionalidades Principais
 
-* **[Funcionalidade 1]**: Exemplo: Layout responsivo para desktop e mobile.
-* **[Funcionalidade 2]**: Exemplo: Página de contato funcional.
-* **[Funcionalidade 3]**: Exemplo: Integração com uma API para [dados X].
-* **[Funcionalidade 4]**: Exemplo: Animações suaves usando [Biblioteca X].
+* **[Funcionalidade 1]**:  Layout responsivo para desktop e mobile.
+* **[Funcionalidade 2]**:  Página de contato funcional.
+* **[Funcionalidade 3]**:  Integração com uma API para [dados X].
+* **[Funcionalidade 4]**:  Animações suaves usando [Biblioteca X].
 
 ## 🛠️ Tecnologias Utilizadas
 
 Este projeto foi construído utilizando as seguintes tecnologias:
 
 **Frontend:**
-* **[Linguagem/Framework Principal]** (Ex: HTML5, CSS3, JavaScript)
-* **[Framework/Biblioteca CSS]** (Ex: React, Vue, Angular, Svelte)
-* **[Estilização]** (Ex: Tailwind CSS, Bootstrap, Styled-Components)
+* **[Linguagem/Framework Principal]** ( HTML5, CSS3, JavaScript)
+* **[Framework/Biblioteca CSS]** ( React, Vue, Angular, Svelte)
+* **[Estilização]** ( Tailwind CSS, Bootstrap, Styled-Components)
 
 **Backend / Deploy (Se aplicável):**
-* **[Linguagem/Runtime]** (Ex: Node.js, Python, PHP)
-* **[Framework Backend]** (Ex: Express, Django, Laravel)
-* **[Hospedagem]** (Ex: Vercel, Netlify, AWS S3, GitHub Pages)
+* **[Linguagem/Runtime]** ( Node.js, Python, PHP)
+* **[Framework Backend]** ( Express, Django, Laravel)
+* **[Hospedagem]** ( Vercel, Netlify, AWS S3, GitHub Pages)
 
 ## ⚙️ Instalação e Execução Local
 
@@ -41,5 +41,25 @@ Certifique-se de ter o **[Gerenciador de Pacotes]** (Ex: Node.js e npm/Yarn/pnpm
 ### 1. Clonar o Repositório
 
 ```bash
-git clone [https://github.com/DeilsonGilmar/deilsongilmar-web.git](https://github.com/DeilsonGilmar/deilsongilmar-web.git)
-cd deilsongilmar-web
+
+git clone [https://github.com/deilsongilmar-web/](https://github.com/deilsongilmar-web/).
+
+
+---
+
+## 👨‍💻 Contato
+
+Deilson Gilmar - Desenvolvedor Web & Serviços Elétricos/Energia Solar.
+
+
+* **Meu LinkedIn:** [www.linkedin.com/in/deilson-mendes](www.linkedin.com/in/deilson-mendes)
+
+* **GitHub:** [https://github.com/DeilsonGilmar](https://github.com/DeilsonGilmar)
+
+* **E-mail:** [deilsongilmar@gmail.com](deilsongilmar@gmail.com)
+
+* **Instagram:** [@DL_MENDES_SERVICOS](@DL_MENDES_SERVICOS)
+
+* **Telefone:** [85 98561-7285](85 985617285)
+
+---
